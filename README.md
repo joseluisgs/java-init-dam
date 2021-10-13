@@ -5,10 +5,11 @@ Plantilla de Ejemplo para trabajar en JAVA enn los primeros temas
 [![LISENCE](https://img.shields.io/badge/Lisence-MIT-green)]()
 ![GitHub](https://img.shields.io/github/last-commit/joseluisgs/java-init-dam)
 
+![imagen](https://1000marcas.net/wp-content/uploads/2020/11/Java-logo.png)
 
 ## Descripción
 Plantilla inicial para manejar los fundamentos de programación secuencial y estructurada, así como arrays y cadenas
-en 1DAM, temas 1 al 3.
+en 1DAM, temas 1 al 3 usando Jetbrains IntellIj IDEA.
 
 ## Autor
 
